@@ -1,0 +1,7 @@
+name: FracturedStaffChat
+author: erforro
+version: '1.0'
+main: me.erforro.StaffChat
+permissions:
+  staffchat.use:
+    default: op
